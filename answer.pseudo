@@ -1,6 +1,6 @@
 =begin
 def method(name)
   name << " " if name.is_a? String
-  return [name,rand(6..14)].join('')
+  return [name,rand(6..15)].join('')
 end
 =end
